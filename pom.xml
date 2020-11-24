@@ -43,11 +43,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://nexus3-indus-dev-ci:8081/repository/app-snapshots/</url>
+      <url>http://nexus3-indus-dev-ci:8081/repository/app-snapshot/</url>
     </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
-      <url>http://nexus3-indus-dev-ci:8081/repository/app-releases/</url>
+      <url>http://nexus3-indus-dev-ci:8081/repository/app-release/</url>
     </repository>
   </distributionManagement>
 </project>
